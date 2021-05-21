@@ -7,8 +7,6 @@ My research interests include:
 - Biomechanics
 - Finite Element Analysis
 
-### Find me on the web 🌏:
 Website 🌐: <a href="https://srivastav-ayush.github.io/">srivastav-ayush.github.io</a> <br>
-LinkedIn 💼: <a href="https://www.linkedin.com/in/srivastav-ayush/">srivastav-ayush</a>
 
 
