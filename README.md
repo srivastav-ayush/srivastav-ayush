@@ -3,7 +3,7 @@ I am a final year undergraduate student in the Department of Mechanical Engineer
 
 My research interests include:
 - Soft Matter
-- Applied Mechanics
+- Biodesign
 - Biomechanics
 - Finite Element Analysis
 
