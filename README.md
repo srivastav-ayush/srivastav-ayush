@@ -5,7 +5,6 @@ My research interests include:
 - Biophysics
 - Soft Matter
 - Bioengineering
-- Biomechanics
 
 Website 🌐: <a href="https://srivastav-ayush.github.io/">srivastav-ayush.github.io</a> <br>
 
