@@ -4,7 +4,7 @@ I am a final year undergraduate student in the Department of Mechanical Engineer
 My research interests include:
 - Soft Matter
 - Bioengineering
-- Biophysics
+- Computational Mechanics
 
 Website 🌐: <a href="https://srivastav-ayush.github.io/">srivastav-ayush.github.io</a> <br>
 
