@@ -6,4 +6,4 @@ My research interests include:
 - Computational Mechanics
 - Soft Matter
 
-You can get more detailes about my work by visiting my website 🌐: <a href="https://srivastav-ayush.github.io/">srivastav-ayush.github.io</a> <br>
+Please visit my website to get more details about my work: <a href="https://srivastav-ayush.github.io/">srivastav-ayush.github.io</a> <br>
