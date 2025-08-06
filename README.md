@@ -1,5 +1,5 @@
 ## Hi, I'm Ayush 👋🏽
-I am a Manager in System Integration at Ola Electric which involves working with vehicle-level performance & range simulations, lumped parameter thermal models for sub-system level temperature prediction, li-ion cell data analytics, etc.
+I work with vehicle-level performance & range simulations, lumped parameter thermal models for sub-system level temperature prediction, li-ion cell data analytics, etc.
 
 My research interests include:
 - Robotics
