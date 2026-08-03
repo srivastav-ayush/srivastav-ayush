@@ -130,10 +130,6 @@ Full lists: https://srivastav-ayush.github.io/publications/
 - GitHub: https://github.com/srivastav-ayush  
 - Website: https://srivastav-ayush.github.io/
 
----
-
-If you want a recruiter-facing one-page summary, a compact developer README (skills-first), or badges arranged differently, tell me which format and I’ll update this file further.
-
 [website]: https://srivastav-ayush.github.io/
 [linkedin]: https://www.linkedin.com/in/srivastav-ayush/
 [github]: https://github.com/srivastav-ayush
