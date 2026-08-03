@@ -4,8 +4,6 @@
 
 I design thermal systems and cooling strategies for vehicle electronics (ECU cooling). For a full CV, publications, projects, and detailed experience, please visit my website:
 
-https://srivastav-ayush.github.io/
-
 Snapshot
 
 - Current: System Engineer, ECU Cooling — Volvo Group
