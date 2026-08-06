@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/website-srivastav--ayush.github.io-0366d6?style=flat&logo=github)][website]
+[![Website](https://img.shields.io/badge/website-srivastav--ayush.github.io-0366d6?style=flat&logo=github)]
 
 # Ayush Srivastav — System Engineer
 
